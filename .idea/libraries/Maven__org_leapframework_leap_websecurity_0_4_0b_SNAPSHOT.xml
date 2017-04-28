@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.leapframework:leap-websecurity:0.4.0b-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-websecurity/0.4.0b-SNAPSHOT/leap-websecurity-0.4.0b-20170113.100729-35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-websecurity/0.4.0b-SNAPSHOT/leap-websecurity-0.4.0b-20170113.100729-35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-websecurity/0.4.0b-SNAPSHOT/leap-websecurity-0.4.0b-20170113.100729-35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

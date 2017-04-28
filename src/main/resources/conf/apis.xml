@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apis xmlns="http://www.leapframework.org/schema/web/apis/apis">
+    <!--
+            name: api名称，必填
+            base-path: api的上下文根路径，非必填
+            base-package: api的扫描包路径，非必填
+    -->
+    <api name="demo-api" base-path="/demo-api" base-package="leap.api"/>
+</apis>
