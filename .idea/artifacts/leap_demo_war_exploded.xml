@@ -21,6 +21,7 @@
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-webapi/0.4.0b-SNAPSHOT/leap-webapi-0.4.0b-20170113.100739-36.jar" output-file-name="leap-webapi-0.4.0b-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-oauth2/0.4.0b-SNAPSHOT/leap-oauth2-0.4.0b-20170113.100733-35.jar" output-file-name="leap-oauth2-0.4.0b-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.26" />
         </element>
       </element>
       <element id="directory" name="META-INF">

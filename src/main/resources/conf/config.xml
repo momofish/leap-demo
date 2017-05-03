@@ -2,4 +2,12 @@
 <config xmlns="http://www.leapframework.org/schema/config" xmlns:orm="http://www.leapframework.org/schema/orm/config">
     <!-- 指定leap扫描的包 -->
     <base-package>leap.demo</base-package>
+    <properties>
+        <property name="jdbcDriver">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://10.200.21.240:3306/leap</property>
+        <property name="jdbcUsername">test</property>
+        <property name="jdbcPassword">test</property>
+
+        <property name="orm.autoGeneateModelFields">false</property>
+    </properties>
 </config>
