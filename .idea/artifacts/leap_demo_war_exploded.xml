@@ -15,12 +15,12 @@
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-web/0.4.0b-SNAPSHOT/leap-web-0.4.0b-20170113.100720-35.jar" output-file-name="leap-web-0.4.0b-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-websecurity/0.4.0b-SNAPSHOT/leap-websecurity-0.4.0b-20170113.100729-35.jar" output-file-name="leap-websecurity-0.4.0b-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-htpl/0.4.0b-SNAPSHOT/leap-htpl-0.4.0b-20170113.100724-35.jar" output-file-name="leap-htpl-0.4.0b-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-webapi/0.4.0b-SNAPSHOT/leap-webapi-0.4.0b-20170113.100739-36.jar" output-file-name="leap-webapi-0.4.0b-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-oauth2/0.4.0b-SNAPSHOT/leap-oauth2-0.4.0b-20170113.100733-35.jar" output-file-name="leap-oauth2-0.4.0b-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-webapi/0.4.0b-SNAPSHOT/leap-webapi-0.4.0b-20170113.100739-36.jar" output-file-name="leap-webapi-0.4.0b-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/leapframework/leap-oauth2/0.4.0b-SNAPSHOT/leap-oauth2-0.4.0b-20170113.100733-35.jar" output-file-name="leap-oauth2-0.4.0b-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.26" />
         </element>
       </element>
