@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.leapframework:leap-db:0.5.0b">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-db/0.5.0b/leap-db-0.5.0b.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-db/0.5.0b/leap-db-0.5.0b-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/leapframework/leap-db/0.5.0b/leap-db-0.5.0b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
